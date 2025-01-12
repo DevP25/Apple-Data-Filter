@@ -1,0 +1,20 @@
+.bg-blue-theme {
+  --tw-bg-opacity: 1;
+  background-color: rgb(22 32 85 / var(--tw-bg-opacity, 1));
+}
+
+.font-medium {
+  font-weight: 500;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.rounded-lg {
+  border-radius: .5rem;
+}
+
+.text-custom-blue {
+  color: rgb(22 32 85 / var(--tw-bg-opacity, 1));
+}
