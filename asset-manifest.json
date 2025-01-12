@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Apple-Data-Filter/static/css/main.8add6d89.css",
+    "main.js": "/Apple-Data-Filter/static/js/main.6df3c6ec.js",
+    "static/js/453.66a282ef.chunk.js": "/Apple-Data-Filter/static/js/453.66a282ef.chunk.js",
+    "static/media/stocks background.png": "/Apple-Data-Filter/static/media/stocks background.66f62cbbe6cc34e6f805.png",
+    "index.html": "/Apple-Data-Filter/index.html",
+    "main.8add6d89.css.map": "/Apple-Data-Filter/static/css/main.8add6d89.css.map",
+    "main.6df3c6ec.js.map": "/Apple-Data-Filter/static/js/main.6df3c6ec.js.map",
+    "453.66a282ef.chunk.js.map": "/Apple-Data-Filter/static/js/453.66a282ef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8add6d89.css",
+    "static/js/main.6df3c6ec.js"
+  ]
+}
